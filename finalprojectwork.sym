@@ -1,0 +1,23 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASCII                   3042
+//	CHARLOOP                300F
+//	DECRYPT                 3030
+//	DECRYPTMESSAGE          30CB
+//	ENCRYPT                 3021
+//	ENCRYPTMESSAGE          30B6
+//	END                     3040
+//	ENTERKEY                301A
+//	EORD                    30E0
+//	ISENTERKEY              30E1
+//	KEYLOCATION             30E4
+//	KEYPROMPT               305A
+//	LETTERLOCATION          30E3
+//	MOREDEC                 3038
+//	MOREENC                 3027
+//	NASCII                  3041
+//	NEWSTRINGLOCATION       30E6
+//	PROMPT                  3043
+//	PROMPTMESSAGE           306C
+//	STRINGLOCATION          30E5
+//	TWENTYCHARACTERS        30E2
